@@ -1,6 +1,6 @@
 """
 @name: 100-prisoner-dilemma.py
-@author: ScryptWeaver
+@author: BeeEffGH
 @date: April 8th, 2023
 
 REQUIREMENT:
@@ -91,3 +91,4 @@ if __name__ == '__main__':
     print(f'{successCount} successful escapes! Success rate of: {str(successRate)}%')
 
     print('Experiment end, goodbye!')
+
